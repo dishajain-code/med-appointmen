@@ -71,6 +71,7 @@
   border-radius: 25px;
   padding: 25px;
   align-self: center;
+  text-align: justify;
 }
 
 .font {
@@ -78,3 +79,6 @@
 }
 
 p{
+  font-size: 20px;
+  font-weight: bold;
+}
